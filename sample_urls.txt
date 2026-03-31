@@ -1,0 +1,10 @@
+# PhishBuster — Sample URL test file
+# Lines starting with # are ignored
+# Add one URL per line
+
+https://google.com
+https://github.com
+https://wikipedia.org
+http://192.168.1.1/login/verify-account
+http://paypal-secure-update.xyz/confirm
+http://bit.ly/suspicious-link
